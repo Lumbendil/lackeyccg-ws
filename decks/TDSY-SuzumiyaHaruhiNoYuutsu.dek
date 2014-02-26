@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDSY-SuzumiyaHaruhiNoYuutsu</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="SYW08-102_TD">The Usual Nagato</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-101_TD">The Usual Haruhi &amp; Mikuru</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T01_TD">Suzumiya Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T01_TD">Suzumiya Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T01_TD">Suzumiya Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T01_TD">Suzumiya Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T02_TD">Both Hands Holding Bonquet Flower Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T02_TD">Both Hands Holding Bonquet Flower Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T02_TD">Both Hands Holding Bonquet Flower Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T02_TD">Both Hands Holding Bonquet Flower Haruhi  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T03_TD">Haruhi &amp; Mikuru In Yukata  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T03_TD">Haruhi &amp; Mikuru In Yukata  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T04_TD">Vocalist Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T04_TD">Vocalist Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T05_TD">Cat Ear Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T05_TD">Cat Ear Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T06_TD">Victory Annoucement Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T06_TD">Victory Annoucement Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T07_TD">Cracker Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T07_TD">Cracker Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T07_TD">Cracker Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T07_TD">Cracker Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T08_TD">Trouble Girl Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T08_TD">Trouble Girl Haruhi TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T09_TD">The Birth Of SOS Dan! TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T09_TD">The Birth Of SOS Dan! TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T10_TD">Someday In The Rain TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T10_TD">Someday In The Rain TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T10_TD">Someday In The Rain TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T10_TD">Someday In The Rain TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T11_TD">Xmas Party Nagato TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T11_TD">Xmas Party Nagato TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T12_TD">Cat Ear Nagato  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T12_TD">Cat Ear Nagato  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T12_TD">Cat Ear Nagato  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T12_TD">Cat Ear Nagato  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T13_TD">Eating Watermelon Nagato  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T13_TD">Eating Watermelon Nagato  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T14_TD">Haruhi &amp; Nagato In Swimsuit  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T14_TD">Haruhi &amp; Nagato In Swimsuit  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T14_TD">Haruhi &amp; Nagato In Swimsuit  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T14_TD">Haruhi &amp; Nagato In Swimsuit  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T15_TD">Hotspring Nagato &amp; Mikuru  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T15_TD">Hotspring Nagato &amp; Mikuru  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T15_TD">Hotspring Nagato &amp; Mikuru  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T15_TD">Hotspring Nagato &amp; Mikuru  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T16_TD">Disabling Of Information Link  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T16_TD">Disabling Of Information Link  TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T17_TD">I&apos;ll Tell You, About Myself TD</name>
+			<set>W08</set>
+		</card>
+		<card>
+			<name id="SYW08-T17_TD">I&apos;ll Tell You, About Myself TD</name>
+			<set>W08</set>
+		</card>
+	</superzone>
+</deck>

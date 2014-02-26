@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDFS-FateStayNight</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="FSS03-T01_TD">After Bath Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T01_TD">After Bath Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T01_TD">After Bath Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T01_TD">After Bath Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T02_TD">Mitsuzuri Ayako TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T02_TD">Mitsuzuri Ayako TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T03_TD">Ryuudou Issei TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T03_TD">Ryuudou Issei TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T03_TD">Ryuudou Issei TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T03_TD">Ryuudou Issei TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T04_TD">Fully Powered Heroic Spirit Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T04_TD">Fully Powered Heroic Spirit Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T05_TD">Master Fuji TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T05_TD">Master Fuji TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T06_TD">Golden King Of Heroes Gilgamesh TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T06_TD">Golden King Of Heroes Gilgamesh TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T07_TD">Bearer Of The Holy Sword Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T07_TD">Bearer Of The Holy Sword Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T07_TD">Bearer Of The Holy Sword Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T07_TD">Bearer Of The Holy Sword Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T08_TD">Summon Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T08_TD">Summon Saber TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T09_TD">Funny Lion TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T09_TD">Funny Lion TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T10_TD">Sword Of Promised Victory TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T10_TD">Sword Of Promised Victory TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T10_TD">Sword Of Promised Victory TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T10_TD">Sword Of Promised Victory TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T11_TD">Red Knight Archer TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T11_TD">Red Knight Archer TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T11_TD">Red Knight Archer TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T11_TD">Red Knight Archer TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T12_TD">Red Devil Rin TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T12_TD">Red Devil Rin TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T13_TD">Tohsaka Rin TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T13_TD">Tohsaka Rin TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T14_TD">Gem Magic Bloodline Rin TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T14_TD">Gem Magic Bloodline Rin TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T15_TD">Heroic Spirit Of Iron Archer TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T15_TD">Heroic Spirit Of Iron Archer TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T16_TD">Black Holy Grail Sakura TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T16_TD">Black Holy Grail Sakura TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T16_TD">Black Holy Grail Sakura TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T16_TD">Black Holy Grail Sakura TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T17_TD">Words Of Farewell TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T17_TD">Words Of Farewell TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T18_TD">Mischievous Smile TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-T18_TD">Mischievous Smile TD</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-102_TD">Swimsuit Saber &amp; Sakura</name>
+			<set>S03</set>
+		</card>
+		<card>
+			<name id="FSS03-103_TD">Emiya Household&apos;s Freeloaders</name>
+			<set>S03</set>
+		</card>
+	</superzone>
+</deck>

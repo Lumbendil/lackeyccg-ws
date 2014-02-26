@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="RGW10-T01_TD">Flower Decoration Uiharu TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T01_TD">Flower Decoration Uiharu TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T02_TD">Swim Club Awatsuki TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T02_TD">Swim Club Awatsuki TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T03_TD">The Developer Of Level Upper Kiyama TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T03_TD">The Developer Of Level Upper Kiyama TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T04_TD">Kuroko&apos;s Parther Uiharu TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T04_TD">Kuroko&apos;s Parther Uiharu TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T04_TD">Kuroko&apos;s Parther Uiharu TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T04_TD">Kuroko&apos;s Parther Uiharu TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T05_TD">Konori Mii TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T05_TD">Konori Mii TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T06_TD">Best Friend TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T06_TD">Best Friend TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T07_TD">Shirai Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T07_TD">Shirai Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T07_TD">Shirai Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T07_TD">Shirai Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T08_TD">Electro Master Mikoto TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T08_TD">Electro Master Mikoto TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T08_TD">Electro Master Mikoto TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T08_TD">Electro Master Mikoto TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T09_TD">Aggressive Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T09_TD">Aggressive Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T10_TD">Skinship Mikoto &amp; Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T10_TD">Skinship Mikoto &amp; Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T10_TD">Skinship Mikoto &amp; Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T10_TD">Skinship Mikoto &amp; Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T11_TD">Mikoto&apos;s Partner Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T11_TD">Mikoto&apos;s Partner Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T11_TD">Mikoto&apos;s Partner Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T11_TD">Mikoto&apos;s Partner Kuroko TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T12_TD">&quot;Invincible Electric Princess&quot; Mikoto TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T12_TD">&quot;Invincible Electric Princess&quot; Mikoto TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T13_TD">Pool Cleaning TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T13_TD">Pool Cleaning TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T14_TD">Railgun TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T14_TD">Railgun TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T14_TD">Railgun TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-T14_TD">Railgun TD</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-101_TD">Sakugawa Middle School Student Uiharu</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-102_TD">Tokiwadai Middle School Student Mikoto</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-103_TD">Sakugawa Middle School Student Saten</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-103_TD">Sakugawa Middle School Student Saten</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-104_TD">The Promise Of The Two</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-104_TD">The Promise Of The Two</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-105_TD">Tokiwadai Middle School Kuroko</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-105_TD">Tokiwadai Middle School Kuroko</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-105_TD">Tokiwadai Middle School Kuroko</name>
+			<set>W10</set>
+		</card>
+		<card>
+			<name id="RGW10-105_TD">Tokiwadai Middle School Kuroko</name>
+			<set>W10</set>
+		</card>
+	</superzone>
+</deck>

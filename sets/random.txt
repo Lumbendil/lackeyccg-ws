@@ -1,0 +1,9 @@
+Name	Set	Imagefile	Type	Colour	Rarity	Serial	Level	Cost	Power	Soul	Trigger	Traits	Flavour	Ability1	Ability2	Ability3
+Itsuki & Ul	WE05	SKWE05-11_C	CH	G	C	SK/WE05-11	1	0	5500	1	0	Colony, Mecha				
+Magical Girls Nanoha & Fate	WPR	N1WPR-001_PR	CH	R	PR	N1/WPR-001	0	0	2500	1	0	Magic, Weapon		[S] [(1)] Choose 1 of your opponent's Front Row Level 0 or below Characters, place it in Waiting Room.		
+Unchangeable Feelings Nanoha & Fate	WPR	N1WPR-002_PR	CH	R	PR	N1/WPR-002	1	0	4500	1	0	Magic, Weapon		[S] [(1) Put this card to REST] Choose 1 of your opponent's cards from the Waiting Room, place it on top of the Deck.		
+Grade 4 Elementary School Student Vivio	WPR	NVWPR-003_PR	CH	R	PR	NV/WPR-003	0	0	2500	1	0	Odd Eye, Royalty		[A] ENCORE [Put 1 Character from your hand to the Waiting Room] (When this card is put into the Waiting Room from your Stage, you may pay the cost. If you do so, put this card in REST in the border it was in.) 		
+Childhood Friend Kotori	WPR	RWWPR-001_PR	CH	Y	PR	RW/WPR-001	0	0	3000	1	0	Plant, Occult				
+Protagonist & Izanagi	SPR	P4SPR-001_PR	CH	Y	PR	P4/SPR-001	1	1	6000	1	1	God				
+Black Rock Shooter	SPR	BRSPR-001_PR	CH	B	PR	BR/SPR-001	0	0	3000	1	0	Weapon				
+Deadmaster	SPR	BRSPR-002_PR	CH	G	PR	BR/SPR-002	1	1	5500	1	0	Weapon		[A] ENCORE [Place the top card of your Deck to your Clock]		

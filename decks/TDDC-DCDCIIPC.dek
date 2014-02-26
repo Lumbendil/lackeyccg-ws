@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="DCW09-T01_TD">Takanashi Yuuhi TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T01_TD">Takanashi Yuuhi TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T01_TD">Takanashi Yuuhi TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T01_TD">Takanashi Yuuhi TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T02_TD">Complicating Age Otome TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T02_TD">Complicating Age Otome TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T03_TD">Maid Uniform Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T03_TD">Maid Uniform Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T03_TD">Maid Uniform Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T03_TD">Maid Uniform Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T04_TD">Cute And Energetic Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T04_TD">Cute And Energetic Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T05_TD">Attachment To Her Uniform Otome TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T05_TD">Attachment To Her Uniform Otome TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T06_TD">Gym Clothes Mahiru TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T06_TD">Gym Clothes Mahiru TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T07_TD">Maid Uniform Aisia TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T07_TD">Maid Uniform Aisia TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T07_TD">Maid Uniform Aisia TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T07_TD">Maid Uniform Aisia TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T08_TD">At The Season When Sakura Blooms TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T08_TD">At The Season When Sakura Blooms TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T09_TD">Kotori &amp; Nemu &amp; Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T09_TD">Kotori &amp; Nemu &amp; Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T09_TD">Kotori &amp; Nemu &amp; Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T09_TD">Kotori &amp; Nemu &amp; Sakura TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T10_TD">Yume &amp; Otome &amp; Erica TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T10_TD">Yume &amp; Otome &amp; Erica TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T10_TD">Yume &amp; Otome &amp; Erica TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T10_TD">Yume &amp; Otome &amp; Erica TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T11_TD">Docile Yet Determined Person Myu-san TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T11_TD">Docile Yet Determined Person Myu-san TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T12_TD">Discipline Committee Nemu TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T12_TD">Discipline Committee Nemu TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T13_TD">White Christmas TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T13_TD">White Christmas TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T14_TD">Just One Wish TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T14_TD">Just One Wish TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T14_TD">Just One Wish TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-T14_TD">Just One Wish TD</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-101_TD">Meddlesome Otome</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-102_TD">Hana Yori Dango Nemu</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-103_TD">Confessing Her Feelings Sakura</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-103_TD">Confessing Her Feelings Sakura</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-104_TD">The Never Withering Sakura Tree</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-104_TD">The Never Withering Sakura Tree</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-105_TD">Feigning Innocence Yume</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-105_TD">Feigning Innocence Yume</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-105_TD">Feigning Innocence Yume</name>
+			<set>W09</set>
+		</card>
+		<card>
+			<name id="DCW09-105_TD">Feigning Innocence Yume</name>
+			<set>W09</set>
+		</card>
+	</superzone>
+</deck>

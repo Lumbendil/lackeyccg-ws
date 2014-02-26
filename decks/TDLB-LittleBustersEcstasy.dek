@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDLB-LittleBustersEcstasy</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="LBW06-T01_TD">Looking Down at the Twilight Streets Rin &amp; Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T01_TD">Looking Down at the Twilight Streets Rin &amp; Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T01_TD">Looking Down at the Twilight Streets Rin &amp; Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T01_TD">Looking Down at the Twilight Streets Rin &amp; Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T02_TD">Wishing Star Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T02_TD">Wishing Star Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T02_TD">Wishing Star Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T02_TD">Wishing Star Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T03_TD">Mood Maker Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T03_TD">Mood Maker Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T03_TD">Mood Maker Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T03_TD">Mood Maker Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T04_TD">Rin &amp; Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T04_TD">Rin &amp; Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T05_TD">Maid Outfit Yuiko TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T05_TD">Maid Outfit Yuiko TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T05_TD">Maid Outfit Yuiko TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T05_TD">Maid Outfit Yuiko TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T06_TD">Self-Centered Sasami TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T06_TD">Self-Centered Sasami TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T07_TD">Test from a Brother TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T07_TD">Test from a Brother TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T08_TD">The Piano Continues To Play TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T08_TD">The Piano Continues To Play TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T09_TD">From a Curious Country Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T09_TD">From a Curious Country Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T10_TD">Potential Player Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T10_TD">Potential Player Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T10_TD">Potential Player Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T10_TD">Potential Player Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T11_TD">Female Spy Saya TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T11_TD">Female Spy Saya TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T11_TD">Female Spy Saya TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T11_TD">Female Spy Saya TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T12_TD">Quarter Girl Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T12_TD">Quarter Girl Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T12_TD">Quarter Girl Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T12_TD">Quarter Girl Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T13_TD">Happiness Spiral Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T13_TD">Happiness Spiral Komari TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T14_TD">Japan-Western Style Blend Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T14_TD">Japan-Western Style Blend Kud TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T15_TD">Strange Deja Vu TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T15_TD">Strange Deja Vu TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T16_TD">It&apos;ll Definitely Be Alright TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T16_TD">It&apos;ll Definitely Be Alright TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T16_TD">It&apos;ll Definitely Be Alright TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-T16_TD">It&apos;ll Definitely Be Alright TD</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-101_TD">Friends Rin &amp; Komari</name>
+			<set>W06</set>
+		</card>
+		<card>
+			<name id="LBW06-102_TD">Kimono Saya</name>
+			<set>W06</set>
+		</card>
+	</superzone>
+</deck>

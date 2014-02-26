@@ -1,0 +1,5 @@
+<version>
+<lastupdateYYMMDD>20140216</lastupdateYYMMDD>
+<versionurl>http://localhost/plugin/version.txt</versionurl>
+<updateurl>http://localhost/plugin/updatelist.txt</updateurl>
+</version>

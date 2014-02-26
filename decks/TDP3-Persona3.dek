@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDP3-Persona3</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="P3S01-01T_R">Amada &amp; Kala-Nemi TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-02T_U">Tomochika Kenji TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-02T_U">Tomochika Kenji TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-03T_U">Koromaru &amp; Cerberus TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-03T_U">Koromaru &amp; Cerberus TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-04T_U">President Tanaka TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-04T_U">President Tanaka TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-05T_U">Kanzato Shin TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-05T_U">Kanzato Shin TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-06T_U">Shadow Time TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-06T_U">Shadow Time TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-07T_C">Koromaru TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-07T_C">Koromaru TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-07T_C">Koromaru TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-07T_C">Koromaru TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-08T_C">Bebe TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-08T_C">Bebe TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-08T_C">Bebe TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-08T_C">Bebe TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-09T_C">Maiko TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-09T_C">Maiko TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-09T_C">Maiko TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-09T_C">Maiko TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-10T_C">Amada &amp; Nemesis TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-10T_C">Amada &amp; Nemesis TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-11T_C">Main Character &amp; Thanatos TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-11T_C">Main Character &amp; Thanatos TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-11T_C">Main Character &amp; Thanatos TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-11T_C">Main Character &amp; Thanatos TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-12T_C">Mayoidou TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-12T_C">Mayoidou TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-13T_U">End Of Revenge TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-13T_U">End Of Revenge TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-14T_C">Last Choice TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-14T_C">Last Choice TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-14T_C">Last Choice TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-14T_C">Last Choice TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-15T_R">Mitsuru &amp; Penthesilea TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-16T_C">Fushimi Chihiro TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-16T_C">Fushimi Chihiro TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-17T_C">Hiraga Keisuke TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-17T_C">Hiraga Keisuke TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-17T_C">Hiraga Keisuke TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-17T_C">Hiraga Keisuke TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-18T_C">Kirijo Takeharu TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-18T_C">Kirijo Takeharu TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-19T_C">Mitsuru &amp; Artemisia TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-19T_C">Mitsuru &amp; Artemisia TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-20T_U">Oath Of Acceptance TD</name>
+			<set>S01</set>
+		</card>
+		<card>
+			<name id="P3S01-20T_U">Oath Of Acceptance TD</name>
+			<set>S01</set>
+		</card>
+	</superzone>
+</deck>

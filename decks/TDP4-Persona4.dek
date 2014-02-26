@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="P4S08-101_TD">&quot;Key of Contract&quot; Protagonist</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-102_TD">Talkative Teddie</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T01_TD">Orchestra Club Manager Matsunaga Ayane TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T01_TD">Orchestra Club Manager Matsunaga Ayane TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T01_TD">Orchestra Club Manager Matsunaga Ayane TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T01_TD">Orchestra Club Manager Matsunaga Ayane TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T02_TD">Miss Con? Protagonist-chan TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T02_TD">Miss Con? Protagonist-chan TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T02_TD">Miss Con? Protagonist-chan TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T02_TD">Miss Con? Protagonist-chan TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T03_TD">Protagonist&apos;s Partner Yosuke TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T03_TD">Protagonist&apos;s Partner Yosuke TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T03_TD">Protagonist&apos;s Partner Yosuke TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T03_TD">Protagonist&apos;s Partner Yosuke TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T04_TD">Yukata Nanako TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T04_TD">Yukata Nanako TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T04_TD">Yukata Nanako TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T04_TD">Yukata Nanako TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T05_TD">Band-Aid of Friendship Yosuke TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T05_TD">Band-Aid of Friendship Yosuke TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T06_TD">A Father&apos;s Promise Dojima TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T06_TD">A Father&apos;s Promise Dojima TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T07_TD">Leader Protagonist TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T07_TD">Leader Protagonist TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T08_TD">Yosuke &amp; Susano-O TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T08_TD">Yosuke &amp; Susano-O TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T08_TD">Yosuke &amp; Susano-O TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T08_TD">Yosuke &amp; Susano-O TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T09_TD">Never More TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T09_TD">Never More TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T10_TD">Brave Zapper TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T10_TD">Brave Zapper TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T10_TD">Brave Zapper TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T10_TD">Brave Zapper TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T11_TD">Manager Ebihara Ai TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T11_TD">Manager Ebihara Ai TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T12_TD">Advocacy of Youth Teddy TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T12_TD">Advocacy of Youth Teddy TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T12_TD">Advocacy of Youth Teddy TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T12_TD">Advocacy of Youth Teddy TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T13_TD">Famous Detective Naoto TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T13_TD">Famous Detective Naoto TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T13_TD">Famous Detective Naoto TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T13_TD">Famous Detective Naoto TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T14_TD">Kumada-chan TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T14_TD">Kumada-chan TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T15_TD">Aria of Souls TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T15_TD">Aria of Souls TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T16_TD">Mabufudyne TD</name>
+			<set>S08</set>
+		</card>
+		<card>
+			<name id="P4S08-T16_TD">Mabufudyne TD</name>
+			<set>S08</set>
+		</card>
+	</superzone>
+</deck>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="DCW01-01T_R">Konomiya Tamaki TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-02T_U">Casual Clothes Kotori TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-02T_U">Casual Clothes Kotori TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-03T_U">Miss Kazami Gakuen Contest TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-03T_U">Miss Kazami Gakuen Contest TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-04T_C">Hanasaki Akane TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-04T_C">Hanasaki Akane TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-04T_C">Hanasaki Akane TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-04T_C">Hanasaki Akane TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-05T_C">Koko &amp; Nanaka TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-05T_C">Koko &amp; Nanaka TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-06T_U">The Songstress Of The Wedding Ceremony TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-06T_U">The Songstress Of The Wedding Ceremony TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-07T_R">Manga Artist Nanako TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-08T_U">Saitama Nanako TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-08T_U">Saitama Nanako TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-09T_U">Shirakawa Koyomi TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-09T_U">Shirakawa Koyomi TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-10T_U">Robo Miharu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-10T_U">Robo Miharu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-11T_U">Miharu &amp; Nemu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-11T_U">Miharu &amp; Nemu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-12T_U">Irreplaceable Friends TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-12T_U">Irreplaceable Friends TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-13T_C">HM-A06 Type Minatsu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-13T_C">HM-A06 Type Minatsu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-13T_C">HM-A06 Type Minatsu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-13T_C">HM-A06 Type Minatsu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-14T_C">Yukata Nemu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-14T_C">Yukata Nemu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-14T_C">Yukata Nemu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-14T_C">Yukata Nemu TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-15T_C">Gym Clothes Yume TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-15T_C">Gym Clothes Yume TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-15T_C">Gym Clothes Yume TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-15T_C">Gym Clothes Yume TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-16T_C">Yuzu &amp; Shin TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-16T_C">Yuzu &amp; Shin TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-16T_C">Yuzu &amp; Shin TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-16T_C">Yuzu &amp; Shin TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-17T_C">Pajamas Yume TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-17T_C">Pajamas Yume TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-18T_C">Nanako And Yagi TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-18T_C">Nanako And Yagi TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-19T_U">Miharu&apos;s Music Box TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-19T_U">Miharu&apos;s Music Box TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-20T_C">Welcome Back  TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-20T_C">Welcome Back  TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-20T_C">Welcome Back  TD</name>
+			<set>W01</set>
+		</card>
+		<card>
+			<name id="DCW01-20T_C">Welcome Back  TD</name>
+			<set>W01</set>
+		</card>
+	</superzone>
+</deck>

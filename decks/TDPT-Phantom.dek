@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="PTW07-T01_TD">Hungry Cal TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T01_TD">Hungry Cal TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T02_TD">Reiji&apos;s Sister Eren TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T02_TD">Reiji&apos;s Sister Eren TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T02_TD">Reiji&apos;s Sister Eren TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T02_TD">Reiji&apos;s Sister Eren TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T03_TD">Cal Devens TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T03_TD">Cal Devens TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T03_TD">Cal Devens TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T03_TD">Cal Devens TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T04_TD">Dressed Cal TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T04_TD">Dressed Cal TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T05_TD">Swim Suit Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T05_TD">Swim Suit Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T05_TD">Swim Suit Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T05_TD">Swim Suit Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T06_TD">Sailor Uniform Eren TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T06_TD">Sailor Uniform Eren TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T07_TD">Practising Cal TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T07_TD">Practising Cal TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T08_TD">Training TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T08_TD">Training TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T09_TD">Wind&apos;s Memory TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T09_TD">Wind&apos;s Memory TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T10_TD">&quot;Masterpiece&quot; Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T10_TD">&quot;Masterpiece&quot; Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T10_TD">&quot;Masterpiece&quot; Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T10_TD">&quot;Masterpiece&quot; Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T11_TD">The First Girl Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T11_TD">The First Girl Ein TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T12_TD">New Phantom Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T12_TD">New Phantom Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T12_TD">New Phantom Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T12_TD">New Phantom Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T13_TD">Rampage Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T13_TD">Rampage Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T14_TD">Splendid Gunplay Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T14_TD">Splendid Gunplay Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T15_TD">Ein VS Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T15_TD">Ein VS Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T15_TD">Ein VS Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T15_TD">Ein VS Drei TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T16_TD">Conclusion TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T16_TD">Conclusion TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T17_TD">Anger TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T17_TD">Anger TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T17_TD">Anger TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-T17_TD">Anger TD</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-101_TD">Peaceful Life Eren &amp; Reiji</name>
+			<set>W07</set>
+		</card>
+		<card>
+			<name id="PTW07-102_TD">Cleaning Cal</name>
+			<set>W07</set>
+		</card>
+	</superzone>
+</deck>

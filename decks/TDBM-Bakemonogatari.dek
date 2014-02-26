@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="BMS15-T01_TD">Araragi Karen &amp; Araragi Tsukihi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T01_TD">Araragi Karen &amp; Araragi Tsukihi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T02_TD">Daily Clothes Kanbaru Suruga TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T02_TD">Daily Clothes Kanbaru Suruga TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T03_TD">Combat Ready Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T03_TD">Combat Ready Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T04_TD">Xenophobic Hachikuji Mayoi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T04_TD">Xenophobic Hachikuji Mayoi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T05_TD">Girl Who Lost Weight Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T05_TD">Girl Who Lost Weight Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T05_TD">Girl Who Lost Weight Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T05_TD">Girl Who Lost Weight Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T06_TD">Daily Clothes Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T06_TD">Daily Clothes Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T06_TD">Daily Clothes Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T06_TD">Daily Clothes Senjougahara Hitagi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T07_TD">Elementary School Student Hachikuji Mayoi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T07_TD">Elementary School Student Hachikuji Mayoi TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T08_TD">BL Lover Kanbaru Suruga TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T08_TD">BL Lover Kanbaru Suruga TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T08_TD">BL Lover Kanbaru Suruga TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T08_TD">BL Lover Kanbaru Suruga TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T09_TD">Hitagi Crab TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T09_TD">Hitagi Crab TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T10_TD">Dispelling Ceremony Sengoku Nadeko TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T10_TD">Dispelling Ceremony Sengoku Nadeko TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T10_TD">Dispelling Ceremony Sengoku Nadeko TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T10_TD">Dispelling Ceremony Sengoku Nadeko TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T11_TD">Pajama Apperance Hanekawa Tsubasa TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T11_TD">Pajama Apperance Hanekawa Tsubasa TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T12_TD">Cat Ears Hanekawa Tsubasa TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T12_TD">Cat Ears Hanekawa Tsubasa TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T12_TD">Cat Ears Hanekawa Tsubasa TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T12_TD">Cat Ears Hanekawa Tsubasa TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T13_TD">Age of Independence Girl Sengoku Nadeko TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T13_TD">Age of Independence Girl Sengoku Nadeko TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T14_TD">My Everything TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T14_TD">My Everything TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T14_TD">My Everything TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-T14_TD">My Everything TD</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-101_TD">Steadfast Silent Araragi Koyomi</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-102_TD">Skeptical Senjougahara Hitagi</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-103_TD">Secluded Lady Senjougahara Hitagi</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-103_TD">Secluded Lady Senjougahara Hitagi</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-104_TD">Weight Crab</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-104_TD">Weight Crab</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-105_TD">Ultimate Honour Student Hanekawa Tsubasa</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-105_TD">Ultimate Honour Student Hanekawa Tsubasa</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-105_TD">Ultimate Honour Student Hanekawa Tsubasa</name>
+			<set>S15</set>
+		</card>
+		<card>
+			<name id="BMS15-105_TD">Ultimate Honour Student Hanekawa Tsubasa</name>
+			<set>S15</set>
+		</card>
+	</superzone>
+</deck>

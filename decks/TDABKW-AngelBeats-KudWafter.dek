@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDABKW-AngelBeats-KudWafter</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="ABW11-T01_TD">Charismatic Vocalist Iwasawa TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T01_TD">Charismatic Vocalist Iwasawa TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T01_TD">Charismatic Vocalist Iwasawa TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T01_TD">Charismatic Vocalist Iwasawa TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T02_TD">Elder Sister Type Hisako TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T02_TD">Elder Sister Type Hisako TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T02_TD">Elder Sister Type Hisako TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T02_TD">Elder Sister Type Hisako TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T03_TD">Sucessor of Iwasawa Yui TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T03_TD">Sucessor of Iwasawa Yui TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T03_TD">Sucessor of Iwasawa Yui TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T03_TD">Sucessor of Iwasawa Yui TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T04_TD">Enemy of the Battlefront Tenshi TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T04_TD">Enemy of the Battlefront Tenshi TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T05_TD">Leader of Girl Demo Iwasawa TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T05_TD">Leader of Girl Demo Iwasawa TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T06_TD">No Memories of Past Life Otonashi TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T06_TD">No Memories of Past Life Otonashi TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T07_TD">The Greatest Happiness for a Girl TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-T07_TD">The Greatest Happiness for a Girl TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-101_TD">Girl Called &quot;Angel&quot; Kanade</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-103_TD">Girls Who Fought Against Fate</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-103_TD">Girls Who Fought Against Fate</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-104_TD">Big Fan Of Girls Dead Monster Yui</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="ABW11-104_TD">Big Fan Of Girls Dead Monster Yui</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T08_TD">Head of Science Department Hiimuro TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T08_TD">Head of Science Department Hiimuro TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T08_TD">Head of Science Department Hiimuro TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T08_TD">Head of Science Department Hiimuro TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T09_TD">Head of Home Economics Department Acchan-senpai TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T09_TD">Head of Home Economics Department Acchan-senpai TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T10_TD">Getting Out of the Bath Hiimuro TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T10_TD">Getting Out of the Bath Hiimuro TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T11_TD">Shopping Kud  TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T11_TD">Shopping Kud  TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T12_TD">Retired Acchan-senpai TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T12_TD">Retired Acchan-senpai TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T12_TD">Retired Acchan-senpai TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T12_TD">Retired Acchan-senpai TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T13_TD">The Poolside Encounter TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T13_TD">The Poolside Encounter TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T13_TD">The Poolside Encounter TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T13_TD">The Poolside Encounter TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T14_TD">The Exotic Oath TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-T14_TD">The Exotic Oath TD</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-105_TD">&quot;Frankly&quot; Kud</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-105_TD">&quot;Frankly&quot; Kud</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-105_TD">&quot;Frankly&quot; Kud</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-105_TD">&quot;Frankly&quot; Kud</name>
+			<set>W11</set>
+		</card>
+		<card>
+			<name id="KWW11-102_TD">Girl Who Acquired Wings Kud</name>
+			<set>W11</set>
+		</card>
+	</superzone>
+</deck>

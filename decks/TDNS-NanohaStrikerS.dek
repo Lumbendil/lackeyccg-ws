@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDNS-NanohaStrikerS</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="NSW04-T01_TD">Familiar Arf TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T01_TD">Familiar Arf TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T02_TD">Fate &amp; Arf TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T02_TD">Fate &amp; Arf TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T02_TD">Fate &amp; Arf TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T02_TD">Fate &amp; Arf TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T03_TD">Vice-Commander Signum TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T03_TD">Vice-Commander Signum TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T03_TD">Vice-Commander Signum TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T03_TD">Vice-Commander Signum TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T04_TD">Erio Mondial TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T04_TD">Erio Mondial TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T05_TD">Flash Of Gold Fate TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T05_TD">Flash Of Gold Fate TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T06_TD">Erio &amp; Caro TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T06_TD">Erio &amp; Caro TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T07_TD">Commander Of Raging Fire Signum TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T07_TD">Commander Of Raging Fire Signum TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T08_TD">Failed Landing TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T08_TD">Failed Landing TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T09_TD">Fire Dragon . Flash!! TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T09_TD">Fire Dragon . Flash!! TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T09_TD">Fire Dragon . Flash!! TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T09_TD">Fire Dragon . Flash!! TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T10_TD">Battle Instructor Vita TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T10_TD">Battle Instructor Vita TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T11_TD">Flaming Swords Spirit Agito TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T11_TD">Flaming Swords Spirit Agito TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T12_TD">Chief Combat Technique Instructor Nanoha TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T12_TD">Chief Combat Technique Instructor Nanoha TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T12_TD">Chief Combat Technique Instructor Nanoha TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T12_TD">Chief Combat Technique Instructor Nanoha TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T13_TD">Nanoha &amp; Vivio TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T13_TD">Nanoha &amp; Vivio TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T13_TD">Nanoha &amp; Vivio TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T13_TD">Nanoha &amp; Vivio TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T14_TD">Wandering Knight Zest TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T14_TD">Wandering Knight Zest TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T15_TD">Nanoha &amp; Vita TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T15_TD">Nanoha &amp; Vita TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T16_TD">Zest Grangaitz TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T16_TD">Zest Grangaitz TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T17_TD">Mama, Good Girl TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T17_TD">Mama, Good Girl TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T18_TD">Promise With Mama TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T18_TD">Promise With Mama TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T18_TD">Promise With Mama TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-T18_TD">Promise With Mama TD</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-101_TD">Nanoha &amp; Fate &amp; Hayate</name>
+			<set>W04</set>
+		</card>
+		<card>
+			<name id="NSW04-102_TD">The Two Mamas</name>
+			<set>W04</set>
+		</card>
+	</superzone>
+</deck>

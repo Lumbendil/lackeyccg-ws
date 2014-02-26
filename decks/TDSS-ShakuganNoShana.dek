@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDSS-ShakuganNoShana</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="SSW14-T01_TD">Melon Pan Loving Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T01_TD">Melon Pan Loving Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T02_TD">Bewildered Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T02_TD">Bewildered Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T02_TD">Bewildered Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T02_TD">Bewildered Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T03_TD">Feelings That Can&apos;t Be Helped TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T03_TD">Feelings That Can&apos;t Be Helped TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T03_TD">Feelings That Can&apos;t Be Helped TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T03_TD">Feelings That Can&apos;t Be Helped TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T04_TD">Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T04_TD">Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T04_TD">Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T04_TD">Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T05_TD">Margery Daw TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T05_TD">Margery Daw TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T06_TD">&quot;Flame-Haired Blazing-Eyed Hunter&quot; Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T06_TD">&quot;Flame-Haired Blazing-Eyed Hunter&quot; Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T06_TD">&quot;Flame-Haired Blazing-Eyed Hunter&quot; Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T06_TD">&quot;Flame-Haired Blazing-Eyed Hunter&quot; Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T07_TD">Improvisational Poem of Slaughter Marjorie TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T07_TD">Improvisational Poem of Slaughter Marjorie TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T08_TD">Protector Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T08_TD">Protector Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T09_TD">Manipulator of Objects Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T09_TD">Manipulator of Objects Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T09_TD">Manipulator of Objects Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T09_TD">Manipulator of Objects Wilhelmina Carmel TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T10_TD">Contracted to Alastor Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T10_TD">Contracted to Alastor Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T10_TD">Contracted to Alastor Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T10_TD">Contracted to Alastor Shana TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T11_TD">Mobilizer of Ceremonial Equipment Khamsin Nbh&apos;w TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T11_TD">Mobilizer of Ceremonial Equipment Khamsin Nbh&apos;w TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T12_TD">Torch and Flame Haze TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T12_TD">Torch and Flame Haze TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T13_TD">Power of Feelings TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T13_TD">Power of Feelings TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T14_TD">I Can Do Anything TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-T14_TD">I Can Do Anything TD</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-101_TD">Bearer of the Nietono no Shana, Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-102_TD">Responsible for Upbringing, Wilhelmina</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-103_TD">Misaki High School Student Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-103_TD">Misaki High School Student Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-104_TD">In Wavering Black Clothes Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-104_TD">In Wavering Black Clothes Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-105_TD">Flame Haze Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-105_TD">Flame Haze Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-105_TD">Flame Haze Shana</name>
+			<set>W14</set>
+		</card>
+		<card>
+			<name id="SSW14-105_TD">Flame Haze Shana</name>
+			<set>W14</set>
+		</card>
+	</superzone>
+</deck>

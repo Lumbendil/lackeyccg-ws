@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="SBS06-T01_TD">&quot;Vagabond&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T01_TD">&quot;Vagabond&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T01_TD">&quot;Vagabond&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T01_TD">&quot;Vagabond&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T02_TD">&quot;Wealth And Military Strength&quot; Toyotomi Hideyoshi TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T02_TD">&quot;Wealth And Military Strength&quot; Toyotomi Hideyoshi TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T03_TD">&quot;Storm Of Love&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T03_TD">&quot;Storm Of Love&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T04_TD">&quot;Runway Of Love&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T04_TD">&quot;Runway Of Love&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T04_TD">&quot;Runway Of Love&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T04_TD">&quot;Runway Of Love&quot; Maeda Keiji TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T05_TD">Crevice TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T05_TD">Crevice TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T05_TD">Crevice TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T05_TD">Crevice TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T06_TD">&quot;Red Blue&quot; Masamune &amp; Yukimura TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T06_TD">&quot;Red Blue&quot; Masamune &amp; Yukimura TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T06_TD">&quot;Red Blue&quot; Masamune &amp; Yukimura TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T06_TD">&quot;Red Blue&quot; Masamune &amp; Yukimura TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T07_TD">&quot;Sengoku&apos;s Soldier Of Fortune&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T07_TD">&quot;Sengoku&apos;s Soldier Of Fortune&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T07_TD">&quot;Sengoku&apos;s Soldier Of Fortune&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T07_TD">&quot;Sengoku&apos;s Soldier Of Fortune&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T08_TD">Takeda Cavalry Corps, Push Through TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T08_TD">Takeda Cavalry Corps, Push Through TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T09_TD">&quot;Furinkazan&quot; Takeda Shingen TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T09_TD">&quot;Furinkazan&quot; Takeda Shingen TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T10_TD">&quot;Sanada Ninja Captain&quot; Sarutobi Sasuke TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T10_TD">&quot;Sanada Ninja Captain&quot; Sarutobi Sasuke TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T10_TD">&quot;Sanada Ninja Captain&quot; Sarutobi Sasuke TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T10_TD">&quot;Sanada Ninja Captain&quot; Sarutobi Sasuke TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T11_TD">&quot;Advocate Of Fighting Spirit&quot; Yukimura Sanada TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T11_TD">&quot;Advocate Of Fighting Spirit&quot; Yukimura Sanada TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T11_TD">&quot;Advocate Of Fighting Spirit&quot; Yukimura Sanada TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T11_TD">&quot;Advocate Of Fighting Spirit&quot; Yukimura Sanada TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T12_TD">&quot;Reliable Brother&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T12_TD">&quot;Reliable Brother&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T13_TD">&quot;Flawless&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T13_TD">&quot;Flawless&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T13_TD">&quot;Flawless&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T13_TD">&quot;Flawless&quot; Chosokabe Motochika TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T14_TD">Strangely Dressed People TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T14_TD">Strangely Dressed People TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T15_TD">Japan&apos;s Soldier TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T15_TD">Japan&apos;s Soldier TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T16_TD">Onigashima&apos;s Demons TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-T16_TD">Onigashima&apos;s Demons TD</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-102_TD">&quot;Nemesis&quot; Masamune &amp; Yukimura</name>
+			<set>S06</set>
+		</card>
+		<card>
+			<name id="SBS06-101_TD">&quot;Love&apos;s Mill&quot; Keiji Maeda</name>
+			<set>S06</set>
+		</card>
+	</superzone>
+</deck>

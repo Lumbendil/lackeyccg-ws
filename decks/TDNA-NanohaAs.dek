@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="NAW12-T01_TD">Perplexity Fate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T01_TD">Perplexity Fate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T01_TD">Perplexity Fate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T01_TD">Perplexity Fate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T02_TD">Knight Of The Sword Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T02_TD">Knight Of The Sword Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T02_TD">Knight Of The Sword Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T02_TD">Knight Of The Sword Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T03_TD">Fate VS Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T03_TD">Fate VS Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T04_TD">Kind Mother Precia TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T04_TD">Kind Mother Precia TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T05_TD">Playtime Fate &amp; Arf TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T05_TD">Playtime Fate &amp; Arf TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T06_TD">&quot;Yagami Family&quot; Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T06_TD">&quot;Yagami Family&quot; Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T06_TD">&quot;Yagami Family&quot; Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T06_TD">&quot;Yagami Family&quot; Signum TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T07_TD">Sonic Form Fate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T07_TD">Sonic Form Fate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T08_TD">Storm Falcon TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T08_TD">Storm Falcon TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T09_TD">The World&apos;s Happiest Divine Book Reinforce TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T09_TD">The World&apos;s Happiest Divine Book Reinforce TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T10_TD">&quot;Yagami Family&quot; Shamal TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T10_TD">&quot;Yagami Family&quot; Shamal TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T10_TD">&quot;Yagami Family&quot; Shamal TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T10_TD">&quot;Yagami Family&quot; Shamal TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T11_TD">Veteran Warrior Gil . Graham TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T11_TD">Veteran Warrior Gil . Graham TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T12_TD">&quot;Yagami Family&quot; Hayate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T12_TD">&quot;Yagami Family&quot; Hayate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T12_TD">&quot;Yagami Family&quot; Hayate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T12_TD">&quot;Yagami Family&quot; Hayate TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T13_TD">&quot;Yagami Family&quot; Zafira TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T13_TD">&quot;Yagami Family&quot; Zafira TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T14_TD">Book Of Darkness&apos; Curse TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T14_TD">Book Of Darkness&apos; Curse TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T15_TD">For The Person It Loves TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-T15_TD">For The Person It Loves TD</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-101_TD">Battlefield Siblings</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-102_TD">Hayate &amp; Signum</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-103_TD">Unbreakable Friendship Nanoha &amp; Fate</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-103_TD">Unbreakable Friendship Nanoha &amp; Fate</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-104_TD">Battlesuit Nanoha &amp; Fate &amp; Hayate</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-104_TD">Battlesuit Nanoha &amp; Fate &amp; Hayate</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-105_TD">Standby Ready</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-105_TD">Standby Ready</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-105_TD">Standby Ready</name>
+			<set>W12</set>
+		</card>
+		<card>
+			<name id="NAW12-105_TD">Standby Ready</name>
+			<set>W12</set>
+		</card>
+	</superzone>
+</deck>

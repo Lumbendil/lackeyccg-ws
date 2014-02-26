@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="LBW02-04T_U">Emergency Situation TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-04T_U">Emergency Situation TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-05T_C">Noumi Kudryavka TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-05T_C">Noumi Kudryavka TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-01T_R">&quot;Mascot&quot; Kud TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-02T_U">Kamikita Kojirou TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-02T_U">Kamikita Kojirou TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-03T_U">&quot;Pony Girl&quot; Rin TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-03T_U">&quot;Pony Girl&quot; Rin TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-06T_C">&quot;Ordinary Boy&quot; Rikki TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-06T_C">&quot;Ordinary Boy&quot; Rikki TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-06T_C">&quot;Ordinary Boy&quot; Rikki TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-06T_C">&quot;Ordinary Boy&quot; Rikki TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-07T_C">&quot;Queen of Cats&quot; Sasami TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-07T_C">&quot;Queen of Cats&quot; Sasami TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-08T_C">&quot;Apron&quot; Haruka TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-08T_C">&quot;Apron&quot; Haruka TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-08T_C">&quot;Apron&quot; Haruka TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-08T_C">&quot;Apron&quot; Haruka TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-09T_C">&quot;Strongest Man&quot; Kengo TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-09T_C">&quot;Strongest Man&quot; Kengo TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-10T_U">Humming Of The Breeze TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-10T_U">Humming Of The Breeze TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-11T_C">The Hypocritical Honour Student TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-11T_C">The Hypocritical Honour Student TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-12T_R">American Game TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-13T_U">&quot;Mystery Couple&quot; Mio TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-13T_U">&quot;Mystery Couple&quot; Mio TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-14T_U">Kud &amp; Komari TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-14T_U">Kud &amp; Komari TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-15T_U">Natsume Kyousuke TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-15T_U">Natsume Kyousuke TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-16T_U">Royal Princess Parfait TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-16T_U">Royal Princess Parfait TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-17T_C">&quot;3 Sisters&quot; Kud TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-17T_C">&quot;3 Sisters&quot; Kud TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-17T_C">&quot;3 Sisters&quot; Kud TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-17T_C">&quot;3 Sisters&quot; Kud TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-18T_C">Mio &amp; Midori TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-18T_C">Mio &amp; Midori TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-18T_C">Mio &amp; Midori TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-18T_C">Mio &amp; Midori TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-19T_C">&quot;Dressed Up&quot; Komari TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-19T_C">&quot;Dressed Up&quot; Komari TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-19T_C">&quot;Dressed Up&quot; Komari TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-19T_C">&quot;Dressed Up&quot; Komari TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-20T_C">The Long Shadows of the Two TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-20T_C">The Long Shadows of the Two TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-20T_C">The Long Shadows of the Two TD</name>
+			<set>W02</set>
+		</card>
+		<card>
+			<name id="LBW02-20T_C">The Long Shadows of the Two TD</name>
+			<set>W02</set>
+		</card>
+	</superzone>
+</deck>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="KGSE07-06_C">&quot;Hitei Hime&apos;s Right-Hand Man&quot; Emonzaemon</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-06_C">&quot;Hitei Hime&apos;s Right-Hand Man&quot; Emonzaemon</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-06_C">&quot;Hitei Hime&apos;s Right-Hand Man&quot; Emonzaemon</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-06_C">&quot;Hitei Hime&apos;s Right-Hand Man&quot; Emonzaemon</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-07_C">&quot;Shinou Issou&quot; Kiguchi Zanki</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-07_C">&quot;Shinou Issou&quot; Kiguchi Zanki</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-10_C">Sentouryuu Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-10_C">Sentouryuu Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-10_C">Sentouryuu Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-10_C">Sentouryuu Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-14_C">Hitei Hime&apos;s Conspiracy</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-14_C">Hitei Hime&apos;s Conspiracy</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-36_C">Tactician Togame</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-36_C">Tactician Togame</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-36_C">Tactician Togame</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-36_C">Tactician Togame</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-41_C">Resourceful And Wily Togame</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-41_C">Resourceful And Wily Togame</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-42_C">Cheerio!</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-42_C">Cheerio!</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-45_C">End Of The Journey</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-45_C">End Of The Journey</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-45_C">End Of The Journey</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-45_C">End Of The Journey</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T01_TD">Under The Cherry Blossom Blizzard Togame &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T01_TD">Under The Cherry Blossom Blizzard Togame &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T02_TD">&quot;Sanzu Shrine Head&quot; Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T02_TD">&quot;Sanzu Shrine Head&quot; Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T02_TD">&quot;Sanzu Shrine Head&quot; Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T02_TD">&quot;Sanzu Shrine Head&quot; Tsuruga Meisai</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T03_TD">Degenerate Swordsman Sabi Hakuhei</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T03_TD">Degenerate Swordsman Sabi Hakuhei</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T03_TD">Degenerate Swordsman Sabi Hakuhei</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T03_TD">Degenerate Swordsman Sabi Hakuhei</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T04_TD">Childhood Days Nanami &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T04_TD">Childhood Days Nanami &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T04_TD">Childhood Days Nanami &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T04_TD">Childhood Days Nanami &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T05_TD">Travelling Together Togame &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T05_TD">Travelling Together Togame &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T05_TD">Travelling Together Togame &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T05_TD">Travelling Together Togame &amp; Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T06_TD">Akutou Nanami</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T06_TD">Akutou Nanami</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T06_TD">Akutou Nanami</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T06_TD">Akutou Nanami</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T07_TD">&quot;A Japanese Sword&quot; Yasuri Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T07_TD">&quot;A Japanese Sword&quot; Yasuri Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T07_TD">&quot;A Japanese Sword&quot; Yasuri Shichika</name>
+			<set>SE07</set>
+		</card>
+		<card>
+			<name id="KGSE07-T07_TD">&quot;A Japanese Sword&quot; Yasuri Shichika</name>
+			<set>SE07</set>
+		</card>
+	</superzone>
+</deck>

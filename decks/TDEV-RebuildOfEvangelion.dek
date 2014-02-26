@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="EVS12-101_TD">Chief Operations Officer Misato</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-102_TD">Ayanami by the Window Side</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-103_TD">Ayanami &amp; Gendo</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-103_TD">Ayanami &amp; Gendo</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-104_TD">Ayanami in Entry Plug</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-104_TD">Ayanami in Entry Plug</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-105_TD">Transfer Student Shinji</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-105_TD">Transfer Student Shinji</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-105_TD">Transfer Student Shinji</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-105_TD">Transfer Student Shinji</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T01_TD">Rooftop Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T01_TD">Rooftop Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T01_TD">Rooftop Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T01_TD">Rooftop Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T02_TD">Photo of Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T02_TD">Photo of Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T03_TD">Waiting Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T03_TD">Waiting Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T03_TD">Waiting Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T03_TD">Waiting Shinji TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T04_TD">Evangelion Experiment Unit 01 TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T04_TD">Evangelion Experiment Unit 01 TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T05_TD">Emergency Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T05_TD">Emergency Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T06_TD">Driver Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T06_TD">Driver Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T06_TD">Driver Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T06_TD">Driver Misato TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T07_TD">G Equipment Eva Unit 0 TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T07_TD">G Equipment Eva Unit 0 TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T08_TD">Apostle&apos;s Attack TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T08_TD">Apostle&apos;s Attack TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T09_TD">Yashima Operation TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T09_TD">Yashima Operation TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T09_TD">Yashima Operation TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T09_TD">Yashima Operation TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T10_TD">Bandaged Ayanami TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T10_TD">Bandaged Ayanami TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T10_TD">Bandaged Ayanami TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T10_TD">Bandaged Ayanami TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T11_TD">The 6th Apostle TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T11_TD">The 6th Apostle TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T11_TD">The 6th Apostle TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T11_TD">The 6th Apostle TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T12_TD">At Home Ayanami TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T12_TD">At Home Ayanami TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T13_TD">Ayanami&apos;s Smile TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T13_TD">Ayanami&apos;s Smile TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T14_TD">Will You Move Away? TD</name>
+			<set>S12</set>
+		</card>
+		<card>
+			<name id="EVS12-T14_TD">Will You Move Away? TD</name>
+			<set>S12</set>
+		</card>
+	</superzone>
+</deck>

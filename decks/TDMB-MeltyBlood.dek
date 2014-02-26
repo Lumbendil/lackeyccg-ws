@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>TDMB-MeltyBlood</title>
+		<author>Vylantze</author>
+		<email>digi9346@hotmail.com</email>
+		<date>05-05-11</date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="MBS10-T01_TD">Vampire Arcueid TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T01_TD">Vampire Arcueid TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T01_TD">Vampire Arcueid TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T01_TD">Vampire Arcueid TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T02_TD">Tohno Shiki TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T02_TD">Tohno Shiki TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T03_TD">Ren TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T03_TD">Ren TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T03_TD">Ren TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T03_TD">Ren TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T04_TD">Arcueid Brunestud TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T04_TD">Arcueid Brunestud TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T04_TD">Arcueid Brunestud TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T04_TD">Arcueid Brunestud TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T05_TD">True Ancestor Princess Arcueid TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T05_TD">True Ancestor Princess Arcueid TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T06_TD">Seventeen Dissection TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T06_TD">Seventeen Dissection TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T07_TD">Arima Miyako TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T07_TD">Arima Miyako TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T07_TD">Arima Miyako TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T07_TD">Arima Miyako TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T08_TD">Riesbyfe Stridberg TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T08_TD">Riesbyfe Stridberg TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T08_TD">Riesbyfe Stridberg TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T08_TD">Riesbyfe Stridberg TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T09_TD">ATLAS Affiliate Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T09_TD">ATLAS Affiliate Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T10_TD">Vampire Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T10_TD">Vampire Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T10_TD">Vampire Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T10_TD">Vampire Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T11_TD">Bajiquan User Miyako TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T11_TD">Bajiquan User Miyako TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T12_TD">TATARI&apos;s Successor Vampire Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T12_TD">TATARI&apos;s Successor Vampire Sion TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T13_TD">Barrel Replica TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T13_TD">Barrel Replica TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T13_TD">Barrel Replica TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-T13_TD">Barrel Replica TD</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-101_TD">Innocent Arcueid</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-102_TD">Familiar Ren</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-103_TD">Shall We Play Around A Bit?</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-103_TD">Shall We Play Around A Bit?</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-104_TD">Alchemist Sion</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-104_TD">Alchemist Sion</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-105_TD">Familiar White Ren</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-105_TD">Familiar White Ren</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-105_TD">Familiar White Ren</name>
+			<set>S10</set>
+		</card>
+		<card>
+			<name id="MBS10-105_TD">Familiar White Ren</name>
+			<set>S10</set>
+		</card>
+	</superzone>
+</deck>

@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<title>TDP4-Persona4Animation</title>
+		<author>SetYourName</author>
+		<date>10-12-11</date>
+		<game>ws</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="P4SE12-102_TD">Cool and Smart Naoto</name><set>SE12</set></card>
+		<card><name id="P4SE12-103_TD">Costume Mascot Teddie</name><set>SE12</set></card>
+		<card><name id="P4SE12-103_TD">Costume Mascot Teddie</name><set>SE12</set></card>
+		<card><name id="P4SE12-104_TD">Notorious Delinquent Kanji</name><set>SE12</set></card>
+		<card><name id="P4SE12-104_TD">Notorious Delinquent Kanji</name><set>SE12</set></card>
+		<card><name id="P4SE12-105_TD">Natural Lady Yukiko</name><set>SE12</set></card>
+		<card><name id="P4SE12-105_TD">Natural Lady Yukiko</name><set>SE12</set></card>
+		<card><name id="P4SE12-105_TD">Natural Lady Yukiko</name><set>SE12</set></card>
+		<card><name id="P4SE12-105_TD">Natural Lady Yukiko</name><set>SE12</set></card>
+		<card><name id="P4SE12-T01_TD">&quot;Big Brother&quot; Yu</name><set>SE12</set></card>
+		<card><name id="P4SE12-T01_TD">&quot;Big Brother&quot; Yu</name><set>SE12</set></card>
+		<card><name id="P4SE12-T03_TD">Hard-Working Elementary School Student Nanako</name><set>SE12</set></card>
+		<card><name id="P4SE12-T03_TD">Hard-Working Elementary School Student Nanako</name><set>SE12</set></card>
+		<card><name id="P4SE12-T03_TD">Hard-Working Elementary School Student Nanako</name><set>SE12</set></card>
+		<card><name id="P4SE12-T03_TD">Hard-Working Elementary School Student Nanako</name><set>SE12</set></card>
+		<card><name id="P4SE12-T04_TD">Jovial Classmate Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T04_TD">Jovial Classmate Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T05_TD">Welcoming Dojima</name><set>SE12</set></card>
+		<card><name id="P4SE12-T05_TD">Welcoming Dojima</name><set>SE12</set></card>
+		<card><name id="P4SE12-T06_TD">Caring Mood Maker Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T06_TD">Caring Mood Maker Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T06_TD">Caring Mood Maker Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T06_TD">Caring Mood Maker Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T08_TD">Persona</name><set>SE12</set></card>
+		<card><name id="P4SE12-T08_TD">Persona</name><set>SE12</set></card>
+		<card><name id="P4SE12-T09_TD">Jiraiya Summon</name><set>SE12</set></card>
+		<card><name id="P4SE12-T09_TD">Jiraiya Summon</name><set>SE12</set></card>
+		<card><name id="P4SE12-T09_TD">Jiraiya Summon</name><set>SE12</set></card>
+		<card><name id="P4SE12-T09_TD">Jiraiya Summon</name><set>SE12</set></card>
+		<card><name id="P4SE12-T12_TD">&quot;Kick of Certain Kill&quot; Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T12_TD">&quot;Kick of Certain Kill&quot; Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T12_TD">&quot;Kick of Certain Kill&quot; Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T12_TD">&quot;Kick of Certain Kill&quot; Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T13_TD">Female High School Student Idol Rise</name><set>SE12</set></card>
+		<card><name id="P4SE12-T13_TD">Female High School Student Idol Rise</name><set>SE12</set></card>
+		<card><name id="P4SE12-T14_TD">Chie&apos;s Awakening</name><set>SE12</set></card>
+		<card><name id="P4SE12-T14_TD">Chie&apos;s Awakening</name><set>SE12</set></card>
+		<card><name id="P4SE12-T02_TD">Hanamura Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T02_TD">Hanamura Yosuke</name><set>SE12</set></card>
+		<card><name id="P4SE12-T11_TD">Satonaka Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T11_TD">Satonaka Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T11_TD">Satonaka Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-T11_TD">Satonaka Chie</name><set>SE12</set></card>
+		<card><name id="P4SE12-101_TD">Persona Summon! Yu</name><set>SE12</set></card>
+		<card><name id="P4SE12-T07_TD">Yu &amp; Izanagi</name><set>SE12</set></card>
+		<card><name id="P4SE12-T07_TD">Yu &amp; Izanagi</name><set>SE12</set></card>
+		<card><name id="P4SE12-T07_TD">Yu &amp; Izanagi</name><set>SE12</set></card>
+		<card><name id="P4SE12-T07_TD">Yu &amp; Izanagi</name><set>SE12</set></card>
+		<card><name id="P4SE12-T10_TD">Izanagi Awakens</name><set>SE12</set></card>
+		<card><name id="P4SE12-T10_TD">Izanagi Awakens</name><set>SE12</set></card>
+	</superzone>
+</deck>

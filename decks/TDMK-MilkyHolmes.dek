@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="MKS11-T01_TD">Energetic Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T01_TD">Energetic Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T02_TD">Joint Investigation Kokoro &amp; Sheryl TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T02_TD">Joint Investigation Kokoro &amp; Sheryl TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T02_TD">Joint Investigation Kokoro &amp; Sheryl TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T02_TD">Joint Investigation Kokoro &amp; Sheryl TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T03_TD">Sheryl Among Rows Of Cherry Blossoms TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T03_TD">Sheryl Among Rows Of Cherry Blossoms TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T03_TD">Sheryl Among Rows Of Cherry Blossoms TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T03_TD">Sheryl Among Rows Of Cherry Blossoms TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T04_TD">Problem Child Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T04_TD">Problem Child Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T04_TD">Problem Child Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T04_TD">Problem Child Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T05_TD">G4&apos;s Leader Kokoro TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T05_TD">G4&apos;s Leader Kokoro TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T06_TD">Gluttonous Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T06_TD">Gluttonous Nero TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T07_TD">Brave Yet Single Minded Sheryl TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T07_TD">Brave Yet Single Minded Sheryl TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T08_TD">Direct Hack TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T08_TD">Direct Hack TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T08_TD">Direct Hack TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T08_TD">Direct Hack TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T09_TD">Psychokinesis TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T09_TD">Psychokinesis TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T10_TD">Cordelia Glauca TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T10_TD">Cordelia Glauca TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T10_TD">Cordelia Glauca TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T10_TD">Cordelia Glauca TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T11_TD">Drawn Into Thoughts Elly TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T11_TD">Drawn Into Thoughts Elly TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T12_TD">Phantom Thief Arsene TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T12_TD">Phantom Thief Arsene TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T12_TD">Phantom Thief Arsene TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T12_TD">Phantom Thief Arsene TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T13_TD">Former Famous Detective Kobayashi TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T13_TD">Former Famous Detective Kobayashi TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T14_TD">Shy Girl Elly TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-T14_TD">Shy Girl Elly TD</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-101_TD">&quot;Milky Holmes&quot; Sheryl</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-102_TD">&quot;Milky Holmes&quot; Cordelia</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-103_TD">&quot;Milky Holmes&quot; Elly</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-103_TD">&quot;Milky Holmes&quot; Elly</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-104_TD">Milky Holmes Formed!</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-104_TD">Milky Holmes Formed!</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-105_TD">&quot;Milky Holmes&quot; Nero</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-105_TD">&quot;Milky Holmes&quot; Nero</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-105_TD">&quot;Milky Holmes&quot; Nero</name>
+			<set>S11</set>
+		</card>
+		<card>
+			<name id="MKS11-105_TD">&quot;Milky Holmes&quot; Nero</name>
+			<set>S11</set>
+		</card>
+	</superzone>
+</deck>

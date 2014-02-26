@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="FTS09-T01_TD">Fairy Tail&apos;s Idol Mirajane TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T01_TD">Fairy Tail&apos;s Idol Mirajane TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T01_TD">Fairy Tail&apos;s Idol Mirajane TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T01_TD">Fairy Tail&apos;s Idol Mirajane TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T02_TD">Lucy Heartfilia TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T02_TD">Lucy Heartfilia TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T03_TD">Maid Form Lucy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T03_TD">Maid Form Lucy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T03_TD">Maid Form Lucy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T03_TD">Maid Form Lucy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T04_TD">&quot;Speaking With Fists&quot; Elfman TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T04_TD">&quot;Speaking With Fists&quot; Elfman TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T04_TD">&quot;Speaking With Fists&quot; Elfman TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T04_TD">&quot;Speaking With Fists&quot; Elfman TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T05_TD">Lucy &amp; Happy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T05_TD">Lucy &amp; Happy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T05_TD">Lucy &amp; Happy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T05_TD">Lucy &amp; Happy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T06_TD">Virgin Palace&apos;s Virgo TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T06_TD">Virgin Palace&apos;s Virgo TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T07_TD">DEAR KABY TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T07_TD">DEAR KABY TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T08_TD">Happy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T08_TD">Happy TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T09_TD">Natsu Dragneel TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T09_TD">Natsu Dragneel TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T10_TD">Young Dragon Natsu TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T10_TD">Young Dragon Natsu TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T10_TD">Young Dragon Natsu TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T10_TD">Young Dragon Natsu TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T11_TD">Iron Dragon Slayer Gajeel TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T11_TD">Iron Dragon Slayer Gajeel TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T12_TD">Fire Dragon Slayer Natsu TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T12_TD">Fire Dragon Slayer Natsu TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T13_TD">S-Rank Quest TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T13_TD">S-Rank Quest TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T14_TD">Fire Dragon&apos;s Roar TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T14_TD">Fire Dragon&apos;s Roar TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T14_TD">Fire Dragon&apos;s Roar TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-T14_TD">Fire Dragon&apos;s Roar TD</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-101_TD">Cute Stellar Spirit Mage&lt;3 Lucy</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-102_TD">Armor Mage Erza</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-103_TD">Fire Mage Natsu</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-103_TD">Fire Mage Natsu</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-104_TD">The Birth of Happy</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-104_TD">The Birth of Happy</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-105_TD">Ice-Make Mage Gray</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-105_TD">Ice-Make Mage Gray</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-105_TD">Ice-Make Mage Gray</name>
+			<set>S09</set>
+		</card>
+		<card>
+			<name id="FTS09-105_TD">Ice-Make Mage Gray</name>
+			<set>S09</set>
+		</card>
+	</superzone>
+</deck>

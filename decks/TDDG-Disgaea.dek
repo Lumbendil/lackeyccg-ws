@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>WS</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="DGS02-T01_TD">Laharl &amp; Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T01_TD">Laharl &amp; Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T01_TD">Laharl &amp; Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T01_TD">Laharl &amp; Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T02_TD">Prinny Squad TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T02_TD">Prinny Squad TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T03_TD">Ordinary Healer TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T03_TD">Ordinary Healer TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T04_TD">Genius Magic Knight TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T04_TD">Genius Magic Knight TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T05_TD">Space Detective Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T05_TD">Space Detective Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T05_TD">Space Detective Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T05_TD">Space Detective Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T06_TD">It Can&apos;t Be Helped Archer TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T06_TD">It Can&apos;t Be Helped Archer TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T07_TD">Etna &amp; Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T07_TD">Etna &amp; Flonne TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T08_TD">Bow, Restored! TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T08_TD">Bow, Restored! TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T09_TD">Assassin From Heaven TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T09_TD">Assassin From Heaven TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T09_TD">Assassin From Heaven TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T09_TD">Assassin From Heaven TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T10_TD">Overlord Killer Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T10_TD">Overlord Killer Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T11_TD">-Beautiful Demon Vyers- Mid-Boss TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T11_TD">-Beautiful Demon Vyers- Mid-Boss TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T12_TD">Invincible Robot Thursday TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T12_TD">Invincible Robot Thursday TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T13_TD">Netherworld Prince Laharl TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T13_TD">Netherworld Prince Laharl TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T14_TD">Defender Of Earth Captain Gordon TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T14_TD">Defender Of Earth Captain Gordon TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T14_TD">Defender Of Earth Captain Gordon TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T14_TD">Defender Of Earth Captain Gordon TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T15_TD">Super Beautiful Dimensional Demon Girl Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T15_TD">Super Beautiful Dimensional Demon Girl Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T15_TD">Super Beautiful Dimensional Demon Girl Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T15_TD">Super Beautiful Dimensional Demon Girl Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-103S_TD">Overlord Laharl &amp; Vassal Etna TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-104S_TD">Gym Clothes Raspberyl &amp; Sapphire TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T16_TD">&quot;Beauty Count&quot; Mid-Boss TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T16_TD">&quot;Beauty Count&quot; Mid-Boss TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T17_TD">Supreme Overlord Laharl TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T17_TD">Supreme Overlord Laharl TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T18_TD">King Of Earth TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T18_TD">King Of Earth TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T18_TD">King Of Earth TD</name>
+			<set>S02</set>
+		</card>
+		<card>
+			<name id="DGS02-T18_TD">King Of Earth TD</name>
+			<set>S02</set>
+		</card>
+	</superzone>
+</deck>
